@@ -10,7 +10,7 @@ Understanding all the possible paths through an IVR can take time. You need to n
 
 ## Explore IVR call flows visually
 
-![Explore Call Flows](explore-call-flows.gif)
+![Explore Call Flows](explore-call-flows.webp)
 
 Start an exploratory test and interact with your IVR as you normally would. Bespoken automatically builds a visual representation of the call flow as you navigate it.
 
@@ -20,7 +20,7 @@ You can navigate the visualization, zoom in and out, select nodes, and edit the 
 
 ## Generate automated test cases
 
-![Generate Automated Test Cases](Generate-Automated-Test-Cases.gif)
+![Generate Automated Test Cases](generate-automated-test-cases.webp)
 
 Once you've explored your IVR, export the flow to generate automated test cases directly in your Bespoken dashboard.
 
