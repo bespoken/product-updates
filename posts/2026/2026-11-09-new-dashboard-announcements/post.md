@@ -4,7 +4,7 @@ description: Product updates, new features, and important news now have a home i
 tags: New
 ---
 
-![New Dashboard Announcements](new-dashboard-announcements.png)
+![New Dashboard Announcements](bespoken-product-updates-small.png)
 
 We're making it easier to keep up with everything happening at Bespoken AI.
 
