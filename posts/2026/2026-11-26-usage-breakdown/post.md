@@ -8,9 +8,9 @@ Understanding how many utterances your team consumes is useful, but knowing wher
 
 **The new Usage Breakdown gives you a more detailed view of how your team consumes utterances across different Bespoken features.**
 
-![Usage Breakdown](usage-breakdown.png)
+![Usage Breakdown](usage-breakdown.webp)
 
-**## See usage by feature**
+## See usage by feature
 
 The Usage chart now breaks down utterance consumption by feature, so you can see how much usage comes from:
 
@@ -28,7 +28,7 @@ With this breakdown, you can get a better understanding of how your team uses Be
 
 Instead of looking at a single total, you can identify usage patterns and see where you might need to make adjustments.
 
-## Find it in your dashboard**
+## Find it in your dashboard
 
 You can access the updated chart under **Billing & Usage** in the left-hand navigation menu.
 

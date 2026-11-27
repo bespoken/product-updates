@@ -18,11 +18,11 @@ There are two ways to create a Shared Step.
 
 You can start from scratch by opening **Shared Steps** in the sidebar and selecting **Create Shared Step**. Give it a name, choose the platform, add an optional description, and build your conversation flow using inputs and expected responses.
 
-![Shared steps flow](shared-steps-flow.webp)
+![Shared Step conversation flow](shared-steps-flow.webp)
 
 Or, you can turn existing test steps into a Shared Step. Select the adjacent steps you want to group together and click **Turn into Shared Step**. Bespoken can also identify other test cases containing those same steps, so you can review them and choose to replace them with the new Shared Step.
 
-![Shared steps 2](shared-steps-2.webp)
+![Turn existing steps into a Shared Step](shared-steps-2.webp)
 
 ## Reuse and update flows across tests
 
@@ -34,11 +34,11 @@ Make an update once, and it automatically applies to every test case using that 
 
 ## Use variables for different scenarios
 
-![Shared steps 3](shared-steps-3.webp)
+![Shared Step variables](shared-steps-3.webp)
 
 Shared Steps support variables, allowing you to reuse the same conversation flow with different values across test cases.
 
-For example, instead of hardcoding a city name in a conversation, you can use a variable like $[var.departure_city] and assign different values in each test case.
+For example, instead of hardcoding a city name in a conversation, you can use a variable like `$[var.departure_city]` and assign different values in each test case.
 
 You can also populate variables from a data table, making it easier to test multiple scenarios without duplicating the conversation flow.
 
